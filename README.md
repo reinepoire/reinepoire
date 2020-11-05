@@ -1,5 +1,5 @@
-<img align=right src="https://github.com/reinepoire/reinepoire/" width=450>
-# Salut, c'est Regina 👋
+
+## Salut, c'est Regina 👋
 
 Tout a commencé par une histoire d'amour entre mon smartphone et moi.
 
