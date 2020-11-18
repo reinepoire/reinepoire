@@ -15,11 +15,15 @@ Dès que j'obtiens mon diplôme, intriguée par le <code>HTML</code> & <code>CSS
 
 Aujourd'hui, pour être encore plus polyvalente, je continue mon apprentissage en suivant un bachelor de développement front-end en alternance. </div> <br><br><br>
 
+### What I'm currently working on 
+- Trouver une alternance 
+- Quelques projet à rajouter dans mon [portofolio](https://reinepoire.tk)
+
 ### 🦄 Few facts about me 🦄
 - Ma plus grosse phobie est de commettre un homicide involotaire.
 - Je pourais manger des chips au petit dej' ou une pizza 🍕 
 - Simba du Roi Lion est mon premier amoureux [#ripMufasa](https://) 🦁
-- Tu peux écrire le mot <i>graine</i> avec les lettres de mon prénom, c'est une info inutiles mais c'est 7 points si tu joues au Scrabble. J'ai 7 autres anagrammes en stock.
+- Tu peux écrire le mot <i>graine</i> avec les lettres de mon prénom, c'est une info inutile mais et ça vaut 7 points au Scrabble. J'ai 7 autres anagrammes en stock.
 
 ### ⭐️ Ideal job ? ⭐️
 Idéalement, je souhaiterais occuper un poste de <b>webmaster</b> ou encore d'<b>intégratrice web</b>. Cependant, je suis tout à fait ouverte à d'autres opportunités. 
