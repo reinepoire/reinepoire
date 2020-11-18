@@ -1,13 +1,12 @@
 
-## Salut, c'est Regina 👋
+# R E G I N A 👸🏾🍐 | @reinepoire
 
-Tout a commencé par une histoire d'amour entre mon smartphone et moi.
 
-Comme pour toutes les histoires d'amour, j'ai voulu apprendre à mieux le connaître et c'est la raison pour laquelle je me suis orientée vers le marketing digital. J'ai commencé mes études sans avoir d'idées précises de ce que je voulais faire plus tard. 
+Mon parcours a commencé par une licence en marketing, c'est au cours d'un de mes stages, j'ai pu découvrir et écrire mes premières lignes de codes.
 
-Assez flexible, je décide de laisser mes expériences me guider. Aujourd'hui, je me considère comme un petit couteau-suisse. J'aime avoir le nez partout et c'est ce qu m'a poussé à compléter mon background commercial avec une partie plus créative.
+Dès que j'obtiens mon diplôme, intriguée par le HTML & CSS mais aussi dans l'espoir de d'occuper un poste moins commercial et plus créatif, je décide de le valoriser avec un BTS en webdesign pour découvrir plus en détail les coulisses du web. 
 
-Pour être encore plus polyvalente, je décide de continuer mon apprentissage en suivant une formation en frontend development en alternance.
+Aujourd'hui, pour être encore plus polyvalente, je continue mon apprentissage en suivant un bachelor de développement front-end en alternance.
 
 Idéalement, je souhaiterais occuper un poste de webmaster ou encore d'intégratrice web. Cependant, je suis tout à fait ouverte à d'autres opportunités. 
 
