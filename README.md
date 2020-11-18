@@ -10,7 +10,7 @@ Mon parcours a commencé par une licence en marketing, c'est au cours d'un de me
 
 Dès que j'obtiens mon diplôme, intriguée par le <code>HTML</code> & <code>CSS</code> mais aussi dans l'espoir de d'occuper un poste moins commercial et plus créatif, je décide de le valoriser avec un BTS en webdesign pour découvrir plus en détail les coulisses du web. 
 
-Aujourd'hui, pour être encore plus polyvalente, je continue mon apprentissage en suivant un bachelor de développement front-end en alternance. </div> <br><br>
+Aujourd'hui, pour être encore plus polyvalente, je continue mon apprentissage en suivant un bachelor de développement front-end en alternance. </div> <br><br><br>
 
 ### 🦄 Few facts about me 🦄
 - Ma plus grosse phobie est de commettre un homicide involotaire.
