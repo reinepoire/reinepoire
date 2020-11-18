@@ -1,5 +1,5 @@
 
-<h1 align="center"> R E G I N A 👸🏾🍐 | @reinepoire</h1>
+<h1 align="center">✨Hey, welcome✨ <br> R E G I N A 👸🏾🍐 | @reinepoire</h1>
 
 <img src="https://github.com/reinepoire/reinepoire/blob/main/hello.png" align="left">
 
