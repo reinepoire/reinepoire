@@ -1,7 +1,7 @@
 
 <h1 align="center">✨Hey, welcome✨ <br> R E G I N A 👸🏾🍐 | @reinepoire</h1>
 
-<img src="https://github.com/reinepoire/reinepoire/blob/main/hello.png" align="left">
+<img src="https://github.com/reinepoire/reinepoire/blob/main/memoji.png" align="left">
 
 <h3>Qui suis-je ?</h3>
 
