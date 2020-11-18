@@ -7,7 +7,7 @@
 <img src="https://github.com/reinepoire/reinepoire/blob/main/memoji.png" align="left">
   
 <br> <br> 
-### Get to know me ! 🎉
+### 🎉 Get to know me ! 🎉 
 
 Mon parcours a commencé par une licence en marketing, c'est au cours d'un de mes stages, j'ai pu découvrir et écrire mes premières lignes de codes.
 
@@ -15,17 +15,17 @@ Dès que j'obtiens mon diplôme, intriguée par le <code>HTML</code> & <code>CSS
 
 Aujourd'hui, pour être encore plus polyvalente, je continue mon apprentissage en suivant un bachelor de développement front-end en alternance. </div> <br><br><br>
 
-### What I'm currently working on 
+#### 💻 What I'm currently working on 💻
 - Trouver une alternance 
 - Peaufiner quelques projet pour les rajouter dans mon [portofolio](https://reinepoire.tk)
 
-### 🦄 Few facts about me 🦄
+#### 🦄 Few facts about me 🦄
 - Ma plus grosse phobie est de commettre un homicide involotaire.
 - Je pourais manger des chips au petit dej' ou une pizza 🍕 
 - Simba du Roi Lion est mon premier amoureux [#ripMufasa](https://) 🦁
 - Tu peux écrire le mot <i>graine</i> avec les lettres de mon prénom, c'est une info inutile mais et ça vaut 7 points au Scrabble. J'ai 7 autres anagrammes en stock.
 
-### ⭐️ Ideal job ? ⭐️
+#### ⭐️ Ideal job ? ⭐️
 Idéalement, je souhaiterais occuper un poste de <b>webmaster</b> ou encore d'<b>intégratrice web</b>. Cependant, je suis tout à fait ouverte à d'autres opportunités. 
 
 
