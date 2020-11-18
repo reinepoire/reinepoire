@@ -1,6 +1,7 @@
 
-# R E G I N A 👸🏾🍐 | @reinepoire
+<h1 align="center"> R E G I N A 👸🏾🍐 | @reinepoire </h1>
 
+<img src="https://github.com/reinepoire/reinepoire/blob/main/hello.png" align="right">
 
 Mon parcours a commencé par une licence en marketing, c'est au cours d'un de mes stages, j'ai pu découvrir et écrire mes premières lignes de codes.
 
