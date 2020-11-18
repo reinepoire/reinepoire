@@ -16,7 +16,7 @@ Dès que j'obtiens mon diplôme, intriguée par le <code>HTML</code> & <code>CSS
 Aujourd'hui, pour être encore plus polyvalente, je continue mon apprentissage en suivant un bachelor de développement front-end en alternance. </div>
 #### 💻 What I'm currently working on 💻
 - Trouver une alternance 
-- Peaufiner quelques projet pour les rajouter dans mon [portofolio](https://reinepoire.tk)
+- Peaufiner quelques projet pour les rajouter dans mon [portofolio](reinepoire.tk)
 
 #### 🦄 Few facts about me 🦄
 - Ma plus grosse phobie est de commettre un homicide involotaire.
