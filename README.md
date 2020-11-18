@@ -17,7 +17,7 @@ Aujourd'hui, pour être encore plus polyvalente, je continue mon apprentissage e
 
 ### What I'm currently working on 
 - Trouver une alternance 
-- Quelques projet à rajouter dans mon [portofolio](https://reinepoire.tk)
+- Peaufiner quelques projet pour les rajouter dans mon [portofolio](https://reinepoire.tk)
 
 ### 🦄 Few facts about me 🦄
 - Ma plus grosse phobie est de commettre un homicide involotaire.
